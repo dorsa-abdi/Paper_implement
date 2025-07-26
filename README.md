@@ -1,4 +1,4 @@
-# 🧠 Paper Implementations – LLM4Seg and More
+# 🧠 Paper Implementations 
 
 Welcome! This repository contains clean, readable implementations of research papers, starting with **LLM4Seg**. Each implementation aims to provide an educational, reproducible version of the original work using code-first exploration—primarily through Jupyter notebooks.
 
